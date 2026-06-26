@@ -120,6 +120,6 @@ Examples:
 
 # 8. Status History
 
-|Date|Status|Notes|
-|---|---|---|
-|[Date]|Draft|Initial ADR created|
+| Date   | Status | Notes               |
+| ------ | ------ | ------------------- |
+| [Date] | Draft  | Initial ADR created |
